@@ -38,6 +38,10 @@
 		{
 			"Name": "ElectraPlayer",
 			"Enabled": true
+		},
+		{
+			"Name": "SVGImporter",
+			"Enabled": true
 		}
 	]
 }
